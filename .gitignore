@@ -1,0 +1,5 @@
+# This prevents your secret key from being uploaded to GitHub.
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

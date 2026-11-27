@@ -1,0 +1,4 @@
+('Jan Shatabdi', 142809, '4', 'Saharanpur', 'New Delhi', '11:08 PM', '12:05 AM', 52)
+('Vande Bharat', 221458, '5', 'Jaipur', 'Anand Vihar', '03:05 AM', '03:55 AM', 41)
+('Rajdhani Express', 12952, 4, 'Delhi Junction', 'Mumbai Central', '9:34 PM', '7:45 AM', 73)
+('Amrit Bharat Express', 14627, 3, 'Varanasi', 'New Delhi', '08:30 PM', '06:15 AM', 120)
